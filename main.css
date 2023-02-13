@@ -1,0 +1,108 @@
+* {
+    font-family: 'Trebuchet MS', sans-serif;
+
+}
+
+
+body, h1, h5 {
+margin: 0;
+}
+
+
+header, footer {
+    height: 75px;
+    background-color: #6d6875;
+    line-height: 75px;
+    color: white;
+}
+
+h1 {
+    padding-right: 20px;
+    text-align: right;
+    letter-spacing: 5px;
+    color: white;
+}
+
+main {
+    background-color: #b5838d;
+    height: 520px;
+    padding:30px 20px;
+    
+}
+
+
+aside {
+    height: 100%;
+    width: 25%;
+    background-color: #e5989b;
+    font-weight: bold;
+    float: left;
+
+}
+
+
+a {
+    display: block;
+    height: 30px;
+    width: 40%;
+    background-color: #ffcdb2;
+    border-radius: 5px;
+    margin: 15px 30%;
+    text-align: center;
+    text-decoration: none;
+    line-height: 30px;
+    color: black;
+
+}
+
+
+
+label, input {
+    display: block;
+    width: 40%;
+    margin: 5px 30%;
+}
+
+
+button {
+    display: block;
+    background-color: #ffcdb2;
+    height: 30px;
+    width: 25%;
+    margin: 25px 37.5% 0px 37.5%;
+    font-weight: bold;
+    
+}
+
+
+article {
+    width: 72.5%;
+    padding-left: 2.5%;
+    color: white;
+    float: right;
+}
+
+
+img {
+    width: 100px;
+    margin: 20px;
+    float: right;
+}
+
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+
+
+h5 {
+    text-align: center;
+    letter-spacing: 3px;
+    color: white;
+}
